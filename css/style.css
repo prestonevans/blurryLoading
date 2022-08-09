@@ -13,7 +13,7 @@ body {
 }
 
 main {
-  background-image: url('/images/background.avif');
+  background-image: url("/images/background.avif");
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -32,3 +32,5 @@ main {
   font-size: clamp(3rem, 12vw, 8rem);
   color: white;
 }
+
+/*# sourceMappingURL=style.css.map */
